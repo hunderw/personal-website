@@ -1,0 +1,90 @@
+
+body {
+  margin: 0;
+  background: #FFFFFF;
+  min-width: 960px;
+}
+
+rect {
+  fill: none;
+  pointer-events: all;
+}
+
+circle {
+  fill: none;
+  stroke-width: 2.5px;      
+}
+h1 {
+text-align:center;
+background-color:white;
+padding: 30px 0px 20px 0;
+font-family:"Bondoluo Peek";
+font-size:70px;
+}
+i1 {
+font-family:"Bondoluo Peek";
+color:#DF0101;
+}
+
+h2 {
+font-family:"Bondoluo Peek";
+font-size:45px;
+color:#DF0101;
+}
+i2 {
+color:#151515;
+}
+img {
+outline: 0; 
+max-width: 100%;
+height: auto; 
+}
+p1 {
+font-family:"Bondoluo Peek";
+font-size:30px;
+color:#DF0101;
+text-align:center;
+}
+p2 {
+font-family:"Fibography Personal Use";
+font-size:30px;
+color:#151515;
+text-align:center;
+}
+h3 {
+font-family:"Bondoluo Peek";
+font-size:45px;
+color:#DF0101;
+}
+p {
+text-align:left;
+font-size:20px;
+}
+h4 {
+font-family:"Bondoluo Peek";
+font-size:28px;
+color:#DF0101;
+}
+h5 {
+font-family:"Bondoluo Peek";
+font-size:28px;
+color:#DF0101;
+}
+h6 {
+font-family:"Bondoluo Peek";
+font-size:45px;
+color:#DF0101;
+}
+h7 {
+font-family:"Bondoluo Peek";
+font-size:45px;
+color:#DF0101;
+}
+
+
+
+
+
+
+
+
