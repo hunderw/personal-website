@@ -1,4 +1,12 @@
 
+@font-face {
+  font-family: 'BondoluoPeek';
+  src: url('bondoluopeek.eot');
+  src: url('bondoluopeek.eot?#iefix') format('embedded-opentype'),
+       url('bondoluopeek.woff') format('woff'),
+       url('bondoluopeek.ttf') format('truetype'),
+       url('bondoluopeek.svg#BondoluoPeek') format('svg');
+}
 body {
   margin: 0;
   background: #FFFFFF;
@@ -15,19 +23,19 @@ circle {
   stroke-width: 2.5px;      
 }
 h1 {
+font-family: 'BondoluoPeek',sans-serif;
 text-align:center;
 background-color:white;
 padding: 30px 0px 20px 0;
-font-family:"Bondoluo Peek";
 font-size:70px;
 }
 i1 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 color:#DF0101;
 }
 
 h2 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 font-size:45px;
 color:#DF0101;
 }
@@ -40,7 +48,7 @@ max-width: 100%;
 height: auto; 
 }
 p1 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 font-size:30px;
 color:#DF0101;
 text-align:center;
@@ -52,7 +60,7 @@ color:#151515;
 text-align:center;
 }
 h3 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 font-size:45px;
 color:#DF0101;
 }
@@ -61,22 +69,22 @@ text-align:left;
 font-size:20px;
 }
 h4 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 font-size:28px;
 color:#DF0101;
 }
 h5 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 font-size:28px;
 color:#DF0101;
 }
 h6 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 font-size:45px;
 color:#DF0101;
 }
 h7 {
-font-family:"Bondoluo Peek";
+font-family:'BondoluoPeek',sans-serif;
 font-size:45px;
 color:#DF0101;
 }
